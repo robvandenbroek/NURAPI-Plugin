@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-toastyplugin",
+  "version": "0.0.1",
+  "description": "An Android Cordova plugin that allows communicating with NordicID devices.",
+  "cordova": {
+    "id": "cordova-plugin-nurapiPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robvandenbroek/NURAPI-Plugin.git"
+  },
+  "keywords": [
+    "NurApi",
+    "NordicID",
+    "RFID",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Rob van den Broek <rob.van.den.broek@quatronic.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robvandenbroek/NURAPI-Plugin/issues"
+  },
+  "homepage": "https://github.com/robvandenbroek/NURAPI-Plugin/"
+}
